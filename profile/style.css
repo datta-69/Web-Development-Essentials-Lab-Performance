@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.resume {
+    width: 350px;
+    padding: 20px;
+
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    margin-top: 320px;
+}
+.section {
+    margin-top: 10px;
+}
+.section h3 {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
